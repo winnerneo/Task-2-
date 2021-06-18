@@ -1,0 +1,33 @@
+
+p{color: hsla(0, 0%, 100%, 0.75);
+margin-left: 30px;
+margin-bottom: 100px;}
+.container{ 
+
+background-color: orange;
+width: 250px;
+height: 500px;
+margin:10px 5px ;
+padding-top: 30px ;}
+
+
+
+.button{ margin-left: 50px;
+border:none;
+text-transform: capitalize;
+    border-radius: 15px;
+padding: 10px 10px;
+font-size: 14px;
+
+}
+
+.fas{color: red;}
+h1{
+    color: whitesmoke;
+    margin-left: 30px;
+    font-family: ;
+}
+.pink{color: pink;}
+.flex-container{
+    display: flex;
+}
